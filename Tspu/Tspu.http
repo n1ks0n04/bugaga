@@ -1,0 +1,6 @@
+@Tspu_HostAddress = http://localhost:5064
+
+GET {{Tspu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
